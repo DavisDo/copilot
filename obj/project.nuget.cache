@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZ11Cc6F9Fk17vcxQoZw+40/qo2ssO8UpCMz4h0F+RqV0Boj/YUWvltQwVDVdRv/+j9ir2JRiTM2ayPkiBet0A==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\Copilot_tester\\Copilot_tester\\Copilot_tester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit\\2.7.0\\xunit.2.7.0.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.analyzers\\1.11.0\\xunit.analyzers.1.11.0.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.assert\\2.7.0\\xunit.assert.2.7.0.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.core\\2.7.0\\xunit.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.extensibility.core\\2.7.0\\xunit.extensibility.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\davis.doropolskis\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

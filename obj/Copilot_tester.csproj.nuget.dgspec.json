@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Github\\Copilot_tester\\Copilot_tester\\Copilot_tester.csproj": {}
+  },
+  "projects": {
+    "C:\\Github\\Copilot_tester\\Copilot_tester\\Copilot_tester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\Copilot_tester\\Copilot_tester\\Copilot_tester.csproj",
+        "projectName": "Copilot_tester",
+        "projectPath": "C:\\Github\\Copilot_tester\\Copilot_tester\\Copilot_tester.csproj",
+        "packagesPath": "C:\\Users\\davis.doropolskis\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\Copilot_tester\\Copilot_tester\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davis.doropolskis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Github\\Numo.Authentication.Lib\\src\\Numo.Authentication.Lib\\bin\\Debug\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\davis.doropolskis\\.hor4-dev\\NuGet\\": {},
+          "C:\\Users\\davis.doropolskis\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://vismaartifactory.jfrog.io/artifactory/api/nuget/horizon-nuget-repository": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
